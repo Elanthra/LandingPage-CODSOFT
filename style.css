@@ -48,6 +48,7 @@ header{
     font-size: 20px;
     font-weight: 500;
     position: relative;
+    cursor:pointer;
 }
 
 .navbar a::before{
